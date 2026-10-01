@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MyFirstGame/1.0.0": {
+        "dependencies": {
+          "SDL3-CS": "3.4.16.2"
+        },
+        "runtime": {
+          "MyFirstGame.dll": {}
+        }
+      },
+      "SDL3-CS/3.4.16.2": {
+        "runtime": {
+          "lib/net10.0/SDL3-CS.dll": {
+            "assemblyVersion": "3.4.16.0",
+            "fileVersion": "3.4.16.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDL3-CS/3.4.16.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-exRJ8qIX94vNoJxm1DTqbJf9Px9Wu/iANyuCSQwHDKFoQPpveCbqw/LVbXUV/1Wi9ogwBaz7THWyQfhhLj/Weg==",
+      "path": "sdl3-cs/3.4.16.2",
+      "hashPath": "sdl3-cs.3.4.16.2.nupkg.sha512"
+    }
+  }
+}

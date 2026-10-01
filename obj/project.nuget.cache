@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ar+hrSNrNm4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brade\\.nuget\\packages\\sdl3-cs\\3.4.16.2\\sdl3-cs.3.4.16.2.nupkg.sha512",
+    "C:\\Users\\brade\\.nuget\\packages\\sdl3-cs.windows\\3.4.16.2\\sdl3-cs.windows.3.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}

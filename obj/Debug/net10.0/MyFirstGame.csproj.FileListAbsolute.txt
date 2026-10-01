@@ -1,0 +1,17 @@
+C:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net10.0\MyFirstGame.exe
+C:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net10.0\MyFirstGame.deps.json
+C:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net10.0\MyFirstGame.runtimeconfig.json
+C:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net10.0\MyFirstGame.dll
+C:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net10.0\MyFirstGame.pdb
+C:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net10.0\SDL3-CS.dll
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.csproj.AssemblyReference.cache
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.AssemblyInfoInputs.cache
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.AssemblyInfo.cs
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.csproj.CoreCompileInputs.cache
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstG.DFAE29F3.Up2Date
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.dll
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\refint\MyFirstGame.dll
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.pdb
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\MyFirstGame.genruntimeconfig.cache
+C:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net10.0\ref\MyFirstGame.dll
