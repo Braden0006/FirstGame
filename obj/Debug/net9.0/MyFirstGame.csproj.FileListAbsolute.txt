@@ -35,3 +35,4 @@ c:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net9.0\refint\MyFirstGame
 c:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net9.0\MyFirstGame.pdb
 c:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net9.0\MyFirstGame.genruntimeconfig.cache
 c:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net9.0\ref\MyFirstGame.dll
+c:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net9.0\Content\images\whale_sprite2.xnb
