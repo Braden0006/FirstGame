@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj": {}
+    "c:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj": {
+    "c:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj",
+        "projectUniqueName": "c:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj",
         "projectName": "MyFirstGame",
-        "projectPath": "C:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj",
+        "projectPath": "c:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\MyFirstGame.csproj",
         "packagesPath": "C:\\Users\\brade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\obj\\",
+        "outputPath": "c:\\Users\\brade\\github\\Braden0006\\MyFirstGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brade\\AppData\\Roaming\\NuGet\\NuGet.Config"
