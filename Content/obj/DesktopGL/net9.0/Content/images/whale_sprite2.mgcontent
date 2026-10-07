@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>c:/Users/brade/github/Braden0006/MyFirstGame/Content/images/whale_sprite2.png</SourceFile>
-  <SourceTime>2026-10-06T15:53:29.44341-06:00</SourceTime>
+  <SourceTime>2026-10-06T16:11:07.9271874-06:00</SourceTime>
   <DestFile>c:/Users/brade/github/Braden0006/MyFirstGame/Content/bin/DesktopGL/Content/images/whale_sprite2.xnb</DestFile>
-  <DestTime>2026-10-06T15:55:16.5097364-06:00</DestTime>
+  <DestTime>2026-10-06T16:11:35.0599223-06:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-08-14T15:50:10-06:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

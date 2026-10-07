@@ -94,18 +94,21 @@ public class Game1 : Game
         _spriteBatch.Begin();
 
         _spriteBatch.Draw(
-            _whale,             // texture
-            new Vector2(        // position
-                (Window.ClientBounds.Width * 0.5f) - (_whale.Width * 0.5f), 
-                (Window.ClientBounds.Height * 0.5f) - (_whale.Height * 0.5f))
+            _whale,                     // texture
+            new Vector2(                // position
+                Window.ClientBounds.Width, 
+                Window.ClientBounds.Height) * 0.5f
             , 
-            null,               // sourceRectangle
-            Color.White,        // color
-            0.0f,               // rotation
-            Vector2.Zero,       // origin
-            1.0f,               // scale
-            SpriteEffects.None, // effects
-            0.0f                // layerDepth
+            null,                       // sourceRectangle
+            Color.White,                // color
+            0.0f,                       // rotation
+            new Vector2(                // origin
+                _whale.Width,
+                _whale.Height) * 0.5f
+            ,
+            3.0f,                       // scale
+            SpriteEffects.None,         // effects
+            0.0f                        // layerDepth
         );
 
         _spriteBatch.End();
