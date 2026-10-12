@@ -13,6 +13,9 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin images/atlas-definitions.xml
+/copy:images/atlas-definitions.xml
+
 #begin images/atlas.png
 /importer:TextureImporter
 /processor:TextureProcessor
