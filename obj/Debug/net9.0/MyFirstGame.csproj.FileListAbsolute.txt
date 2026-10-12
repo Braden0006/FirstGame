@@ -37,3 +37,4 @@ c:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net9.0\MyFirstGame.genrun
 c:\Users\brade\github\Braden0006\MyFirstGame\obj\Debug\net9.0\ref\MyFirstGame.dll
 c:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net9.0\Content\images\whale_sprite2.xnb
 C:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net9.0\Content\images\atlas.xnb
+c:\Users\brade\github\Braden0006\MyFirstGame\bin\Debug\net9.0\Content\images\atlas-definitions.xml

@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/brade/github/Braden0006/MyFirstGame/Content/images/atlas.png</File>
-    <File>C:/Users/brade/github/Braden0006/MyFirstGame/Content/images/whale_sprite2.png</File>
+    <File>c:/Users/brade/github/Braden0006/MyFirstGame/Content/images/atlas.png</File>
+    <File>c:/Users/brade/github/Braden0006/MyFirstGame/Content/images/whale_sprite2.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

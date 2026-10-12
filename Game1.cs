@@ -59,17 +59,9 @@ public class Game1 : Game
 
 
         // TODO: use this.Content to load your game content here
-        //_whale = Content.Load<Texture2D>("images/whale_sprite2");
-
-        // Load the atlas texture using the content manager
-        Texture2D atlasTexture = Content.Load<Texture2D>("images/atlas");
 
         // Create a TextureAtlas instance from the atlas
-        TextureAtlas atlas = new TextureAtlas(atlasTexture);
-
-        // Add the regions to the texture atlas for the slime and the bat
-        atlas.AddRegion("slime", 0, 0, 20, 20);
-        atlas.AddRegion("bat", 20, 0, 20, 20);
+        TextureAtlas atlas = TextureAtlas.FromFile(Content, "images/atlas-definitions.xml");
 
         // Retrieve the texture regions for the slime and the bat from the texture atlas
         _slime = atlas.GetRegion("slime");

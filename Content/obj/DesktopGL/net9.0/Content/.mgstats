@@ -1,3 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/brade/github/Braden0006/MyFirstGame/Content/images/atlas.png","C:/Users/brade/github/Braden0006/MyFirstGame/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.2007749
-"C:/Users/brade/github/Braden0006/MyFirstGame/Content/images/whale_sprite2.png","C:/Users/brade/github/Braden0006/MyFirstGame/Content/bin/DesktopGL/Content/images/whale_sprite2.xnb","TextureProcessor","Texture2DContent",625,65621,0.0150699
+"c:/Users/brade/github/Braden0006/MyFirstGame/Content/images/atlas-definitions.xml","c:\Users\brade\github\Braden0006\MyFirstGame\Content\bin\DesktopGL\Content\images/atlas-definitions.xml","CopyItem","File",263,263,0.0055822
+"c:/Users/brade/github/Braden0006/MyFirstGame/Content/images/atlas.png","c:/Users/brade/github/Braden0006/MyFirstGame/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.1727473
+"c:/Users/brade/github/Braden0006/MyFirstGame/Content/images/whale_sprite2.png","c:/Users/brade/github/Braden0006/MyFirstGame/Content/bin/DesktopGL/Content/images/whale_sprite2.xnb","TextureProcessor","Texture2DContent",625,65621,0.0121449
