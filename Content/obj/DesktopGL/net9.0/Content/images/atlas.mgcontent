@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Users/brade/github/Braden0006/MyFirstGame/Content/images/atlas.png</SourceFile>
+  <SourceFile>C:/Users/brade/github/Braden0006/MyFirstGame/Content/images/atlas.png</SourceFile>
   <SourceTime>2026-10-12T05:19:26.7626956-06:00</SourceTime>
-  <DestFile>c:/Users/brade/github/Braden0006/MyFirstGame/Content/bin/DesktopGL/Content/images/atlas.xnb</DestFile>
-  <DestTime>2026-10-12T05:34:53.4563621-06:00</DestTime>
+  <DestFile>C:/Users/brade/github/Braden0006/MyFirstGame/Content/bin/DesktopGL/Content/images/atlas.xnb</DestFile>
+  <DestTime>2026-10-13T05:17:33.347443-06:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-08-14T15:50:10-06:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
